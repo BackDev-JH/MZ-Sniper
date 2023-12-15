@@ -1,2 +1,2 @@
 # MZ-Sniper
-MZ-sniper Spring Project
+MZ-sniper Spring Boot Project
