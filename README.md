@@ -1,4 +1,4 @@
 # MZ-Sniper
 MZ-sniper Spring Boot Project
 
-### [meethub - ERD](https://www.erdcloud.com/d/biFvzoPbffMLQzN6X)
+### [ERD - meethub](https://www.erdcloud.com/d/biFvzoPbffMLQzN6X) 진행중
